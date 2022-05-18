@@ -1,0 +1,20 @@
+{
+    "name": "constants-util",
+    "version": "0.2.0-beta",
+    "description": "A yarn/npm module with some cool and useful constants.",
+    "main": "src/index.js",
+    "repository": {
+        "url": "https://github.com/CyberHD1811/constants-util.git",
+        "type": "git"
+    },
+    "author": "CyberHD1811",
+    "license": "MIT",
+    "private": false,
+    "keywords": [
+        "constants"
+    ],
+    "homepage": "https://github.com/CyberHD1811/constants-util#readme",
+    "bugs": {
+        "url": "https://github.com/CyberHD1811/constants-util/issues"
+    }
+}
