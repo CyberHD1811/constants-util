@@ -1,6 +1,6 @@
 {
     "name": "constants-util",
-    "version": "0.2.0-beta",
+    "version": "0.2.1-beta",
     "description": "A yarn/npm module with some cool and useful constants.",
     "main": "src/index.js",
     "repository": {

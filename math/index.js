@@ -1,4 +1,9 @@
 /**
+ * Glaisher-Kinkelin constant
+ */
+exports.A = 1.2824271291006226;
+
+/**
  * Second Feigenbaum constant
  */
 exports.ALPHA = 2.5029078750958928;
@@ -19,6 +24,11 @@ exports.C2 = 0.6601618158468695;
 exports.DELTA = 4.6692016091029906;
 
 /**
+ * Hafner-Sarnak-McCurley constant
+ */
+exports.DN = 0.3532363718549959;
+
+/**
  * Euler's number
  */
 exports.E = 2.7182818284590452;
@@ -26,7 +36,7 @@ exports.E = 2.7182818284590452;
 /**
  * Erdős-Borwein constant
  */
-exports.EM = 1.6066951524152917;
+exports.EB = 1.6066951524152917;
 
 /**
  * Fransén-Robinson constant
@@ -44,6 +54,11 @@ exports.G = 0.8346268416740732;
 exports.G$CATALAN = 0.915965594177219;
 
 /**
+ * Gieseking constant
+ */
+exports.G$GIESEKING = 1.014941606409653625021202;
+
+/**
  * Euler's constant or Euler-Mascheroni constant
  */
 exports.GAMMA = 0.5772156649015328;
@@ -57,6 +72,11 @@ exports.K = 2.5849817595792532;
  * Landau-Ramanujan constant
  */
 exports.K$LANDAU = 7.6422365358922066;
+
+/**
+ * Golomb-Dickman constant
+ */
+exports.LAMBDA = 0.6243299885435508;
 
 /**
  * Meissel-Mertens constant
@@ -81,7 +101,7 @@ exports.P = 2.295587149392638;
 /**
  * Golden Ratio
  */
-exports.PHI = 1.414213562373095;
+exports.PHI = 1.6180339887498948;
 
 /**
  * Reciprocal Fibonacci constant
@@ -117,6 +137,11 @@ exports.SQRT6 = 2.449489742783178;
  * Square root of 7
  */
 exports.SQRT7 = 2.6457513110645905;
+
+/**
+ * Mills' constant
+ */
+exports.THETA = 1.3063778838630806;
 
 /**
  * Apéry constant
